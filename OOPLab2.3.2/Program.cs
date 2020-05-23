@@ -15,7 +15,7 @@ namespace OOPLab2._3._2
                     {
                         if ((input[0] == '0') && (d != 1))
                         {
-                            Console.WriteLine("Ви ввели некоректне значення, спробуйте ще раз:\n");
+                            Console.WriteLine(" Ви ввели некоректне значення, спробуйте ще раз:\n");
                             input = Console.ReadLine();
                             a = true;
                             break;
